@@ -1,0 +1,3 @@
+Simulación de un bug en el proyecto
+
+cuarto commit
